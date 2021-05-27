@@ -1,4 +1,4 @@
-# iot
+# iot-studies
 Algorithms and studies about internet of things.
 
 ## Temperature Sensors
